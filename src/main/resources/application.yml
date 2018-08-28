@@ -1,0 +1,11 @@
+spring:
+  profiles:
+    active: server3
+  application:
+    name: journey-system-eureka-server
+  security:
+    basic:
+      enabled: true
+    user:
+      name: pangbohuan
+      password: pbh.3644
