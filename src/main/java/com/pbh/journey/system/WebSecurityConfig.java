@@ -1,4 +1,4 @@
-package com.cmrh.journey.system;
+package com.pbh.journey.system;
 
 import org.springframework.security.config.annotation.web.builders.HttpSecurity;
 import org.springframework.security.config.annotation.web.configuration.EnableWebSecurity;

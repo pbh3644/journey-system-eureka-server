@@ -1,4 +1,4 @@
-package com.cmrh.journey.system;
+package com.pbh.journey.system;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
